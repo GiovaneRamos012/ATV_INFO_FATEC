@@ -1,2 +1,41 @@
 # ATV_INFO_FATEC
-atividades de Info 1 semestre
+Trabalhos realizados e entregues na disciplina de Informática Aplicada
+
+## Atividade 1: Apresentação em grupo no Canva
+![WhatsApp Image 2025-11-06 at 22 26 22](https://github.com/user-attachments/assets/ddddf9c7-5c1f-49bf-8d90-4c59545ece2d)
+
+## Atividade 2: Análise exploratória referente a dados abertos sobre bares, restaurantes e cafeterias existentes no Brasil
+<img width="800" height="330" alt="Captura de tela 2025-11-07 192154" src="https://github.com/user-attachments/assets/f849049c-ae2b-4267-8a67-f885077d4fac" />
+
+##  Atividade 3: Análise do Comex Stat
+Aprendemos a fazer análise de dados, usando o PROCV.
+<img width="520" height="726" alt="Captura de tela 2025-11-07 194654" src="https://github.com/user-attachments/assets/fd6ac66d-3cf4-4496-b5ee-a129b89b1e69" />
+
+## Atividade 4: Power BI
+Aprendemos a manusear e tratar dados no Power BI.
+
+## Atividade 5: Power BI Exportação 2025
+Exportações do PowerBI de 2025 tratadas em Python 
+
+
+## Atividade 6:  
+Atividade no Excel da sorveteria
+[Ice.Cream.xlsx](https://github.com/user-attachments/files/23426937/Ice.Cream.xlsx)
+<img width="978" height="620" alt="Captura de tela 2025-11-07 195327" src="https://github.com/user-attachments/assets/cd39dae5-38e1-47b5-b6c6-97224ace8194" />
+<img width="914" height="804" alt="Captura de tela 2025-11-07 195903" src="https://github.com/user-attachments/assets/b49322ad-074b-4d6e-8469-ed6a7a852cb8" />
+
+
+## Atividade 7:
+Atividade da planilha envolvendo salario 
+[Salary.Data.xlsx](https://github.com/user-attachments/files/23426905/Salary.Data.xlsx)
+<img width="978" height="530" alt="Captura de tela 2025-11-07 200102" src="https://github.com/user-attachments/assets/e351cfed-b776-43b2-b031-47b6a05d89c7" />
+<img width="971" height="770" alt="Captura de tela 2025-11-07 200638" src="https://github.com/user-attachments/assets/97a19844-340c-4090-8bd5-1dcb446e8d51" />
+
+
+
+
+
+
+
+
+
