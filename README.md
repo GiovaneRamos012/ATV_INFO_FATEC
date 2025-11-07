@@ -12,10 +12,11 @@ Aprendemos a fazer análise de dados, usando o PROCV.
 <img width="520" height="726" alt="Captura de tela 2025-11-07 194654" src="https://github.com/user-attachments/assets/fd6ac66d-3cf4-4496-b5ee-a129b89b1e69" />
 
 ## Atividade 4: Power BI
-Aprendemos a manusear e tratar dados no Power BI.
+Dados de exportação pelo PowerBI  
 
 ## Atividade 5: Power BI Exportação 2025
-Exportações do PowerBI de 2025 tratadas em Python 
+Dados de estados pelo PowerBI
+<img width="1316" height="736" alt="Captura de tela 2025-11-07 202510" src="https://github.com/user-attachments/assets/0243ca92-561a-47a2-af1a-db63c1ff29ff" />
 
 
 ## Atividade 6:  
