@@ -13,6 +13,8 @@ Aprendemos a fazer análise de dados, usando o PROCV.
 
 ## Atividade 4: Power BI
 Dados de exportação pelo PowerBI  
+<img width="731" height="412" alt="Captura de tela 2025-11-09 100712" src="https://github.com/user-attachments/assets/99e80c60-7862-401c-9177-0f82d127502b" />
+
 
 ## Atividade 5: Power BI Exportação 2025
 Dados de estados pelo PowerBI
