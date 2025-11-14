@@ -7,7 +7,7 @@ Trabalhos realizados e entregues na disciplina de Informática Aplicada
 ## Atividade 2: Análise exploratória referente a dados abertos sobre bares, restaurantes e cafeterias existentes no Brasil
 <img width="800" height="330" alt="Captura de tela 2025-11-07 192154" src="https://github.com/user-attachments/assets/f849049c-ae2b-4267-8a67-f885077d4fac" />
 
-##  Atividade 3: Análise do Comex Stat
+##  Atividade 3: Análise das perguntas 
 Aprendemos a fazer análise de dados, usando o PROCV.
 <img width="520" height="726" alt="Captura de tela 2025-11-07 194654" src="https://github.com/user-attachments/assets/fd6ac66d-3cf4-4496-b5ee-a129b89b1e69" />
 
