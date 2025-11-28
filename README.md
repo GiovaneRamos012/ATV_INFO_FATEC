@@ -34,6 +34,11 @@ Atividade da planilha envolvendo salario
 <img width="978" height="530" alt="Captura de tela 2025-11-07 200102" src="https://github.com/user-attachments/assets/e351cfed-b776-43b2-b031-47b6a05d89c7" />
 <img width="971" height="770" alt="Captura de tela 2025-11-07 200638" src="https://github.com/user-attachments/assets/97a19844-340c-4090-8bd5-1dcb446e8d51" />
 
+# Atividade 8: 
+Prova de Info 27/11
+<img width="1481" height="808" alt="Captura de tela 2025-11-27 220750" src="https://github.com/user-attachments/assets/d6fe6dec-96e2-41ce-b255-1ff08ff9f2d0" />
+
+
 
 
 
