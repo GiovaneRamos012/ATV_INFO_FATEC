@@ -7,16 +7,16 @@ Trabalhos realizados e entregues na disciplina de Informática Aplicada
 ## Atividade 2: Análise exploratória referente a dados abertos sobre bares, restaurantes e cafeterias existentes no Brasil
 <img width="800" height="330" alt="Captura de tela 2025-11-07 192154" src="https://github.com/user-attachments/assets/f849049c-ae2b-4267-8a67-f885077d4fac" />
 
-##  Atividade 3: Análise das perguntas 
+##  Atividade 3: Análise das perguntas com uma tabela de excel utilzando a formula de PROCV
 Aprendemos a fazer análise de dados, usando o PROCV.
 <img width="520" height="726" alt="Captura de tela 2025-11-07 194654" src="https://github.com/user-attachments/assets/fd6ac66d-3cf4-4496-b5ee-a129b89b1e69" />
 
-## Atividade 4: Power BI
-Dados de exportação pelo PowerBI  
+## Atividade 4: Montar gráficos interativos em Power BI de exportações dos países
+Dados de exportação de países ao redor do mundo pelo PowerBI  
 <img width="731" height="412" alt="Captura de tela 2025-11-09 100712" src="https://github.com/user-attachments/assets/99e80c60-7862-401c-9177-0f82d127502b" />
 
 
-## Atividade 5: Power BI Exportação 2025
+## Atividade 5: Montando deshboards interativos em Power BI sobre dados de Exportação por estados em 2025
 Dados de estados pelo PowerBI
 <img width="1316" height="736" alt="Captura de tela 2025-11-07 202510" src="https://github.com/user-attachments/assets/0243ca92-561a-47a2-af1a-db63c1ff29ff" />
 
